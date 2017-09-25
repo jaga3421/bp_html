@@ -1,0 +1,36 @@
+// forms 
+
+input.inp {
+  padding: $micro-padding;
+  color: $font-color;
+  outline: 0;
+}
+
+.btn {
+  width: 120px;
+  padding: $micro-padding;
+  text-align: center;
+  border: none;
+  text-transform: uppercase;
+  outline: 0;
+  &.btn-primary {
+    color: $font-color-top;
+    background: $brand-primary;
+    &:active {
+      background: $primary-plus;
+    }
+  }
+  &.btn-secondary {
+    color: $font-color;
+    background: $color-secondary;
+    &:active {
+      background: $secondary-plus;
+    }
+  }
+}
+
+.error-balloon {
+  padding: $std-padding;
+  color: $font-color-top;
+  background: $color-error;
+}

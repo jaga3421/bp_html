@@ -1,0 +1,21 @@
+body {
+  font-family: $font;
+  color: $font-color;
+  font-size: $font-r;
+  line-height: 1.3eM;
+}
+
+h1, h2, h3, h4{
+  margin: $micro-margin 0 $std-margin 0;
+  font-size: $font-xl;
+  color: $brand-primary;
+}
+
+h2 {
+  font-size: $font-l;
+}
+
+p {
+  margin: $micro-margin 0 $std-margin 0;
+  font-weight: $font-light;
+}
