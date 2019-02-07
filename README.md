@@ -5,9 +5,9 @@ Ready to jump in dev setup for simple html prototyping.
 scss files pre organised.
 
 ## Setup
-Curl into your local 
-```sh
-$ curl https://github.com/jaga3421/bp_html.git
+Clone into your local 
+```
+$ git clone https://github.com/jaga3421/bp_html.git
 ```
 
 Install dependencies
