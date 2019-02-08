@@ -22,4 +22,4 @@ $ npm run dev
 ```
 
 
-Thanks for using
+Thanks for using. Please star this repo if you like it :)
