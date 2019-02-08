@@ -1,5 +1,4 @@
-Forked from Webpack 3 Boilerplate
-===========
+
 
 Ready to jump in dev setup for simple html prototyping.
 scss files pre organised.
